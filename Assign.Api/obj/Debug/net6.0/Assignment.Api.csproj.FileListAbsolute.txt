@@ -1,0 +1,128 @@
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\appsettings.Development.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\appsettings.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.exe
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.deps.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.runtimeconfig.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.pdb
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\AutoMapper.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Humanizer.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.AssemblyReference.cache
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.GeneratedMSBuildEditorConfig.editorconfig
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.AssemblyInfoInputs.cache
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.AssemblyInfo.cs
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.CoreCompileInputs.cache
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.MvcApplicationPartsAssemblyInfo.cs
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.MvcApplicationPartsAssemblyInfo.cache
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\staticwebassets.build.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\staticwebassets.development.json
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\scopedcss\bundle\Assignment.Api.styles.css
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.CopyComplete
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\refint\Assignment.Api.dll
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.pdb
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.genruntimeconfig.cache
+\\resurs.loc\home\RESURS\R01898\RDocuments\Saba\Assign\Assign.Api\obj\Debug\net6.0\ref\Assignment.Api.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.exe
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.deps.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.runtimeconfig.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Assignment.Api.pdb
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.AssemblyInfo.cs
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\scopedcss\bundle\Assignment.Api.styles.css
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.csproj.CopyComplete
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\refint\Assignment.Api.dll
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.pdb
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\Assignment.Api.genruntimeconfig.cache
+C:\Users\pc\Downloads\Assign (1)\Assign\Assign.Api\obj\Debug\net6.0\ref\Assignment.Api.dll
